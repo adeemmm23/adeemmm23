@@ -30,7 +30,9 @@
 </a>
 &nbsp;
 &nbsp;
-<a href="mailto:contact.adem.ot@gmail.com">
+<a 
+  href="mailto:contact.adem.ot@gmail.com"
+  title="contact.adem.ot@gmail.com">
   <img src="./email.png" width="25">
 </a>
 </p>
@@ -38,4 +40,13 @@
   <i>
     Btw i'm in love with Material Design by Google (●'◡'●)
   </i>
+</p>
+<p align="center">
+  <img src="./divider.png" alt="drawing" width="100">
+</p>
+<p align="center">
+  ReactJS • ExpressJS • Tailwind • Flutter • Arduino • Python • Figma • PowerPoint
+</p>
+<p align="center">
+  <img src="./shape.png" alt="drawing" width="25">
 </p>
