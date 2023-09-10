@@ -2,7 +2,7 @@
   <b>Bonjour <🥖></b>
 </h3>
 <p align="center">
-  Je suis Adem Othman, a tunisian student. and an Internet lover.
+  Je suis Adem Othman, an enthusiastic and ambitious tunisian student. and an Internet lover.
 </p>
 <p align="center">
   <img src="./divider.png" alt="drawing" width="100">
@@ -48,5 +48,5 @@
   ReactJS • ExpressJS • Tailwind • Flutter • Arduino • Python • Figma • PowerPoint
 </p>
 <p align="center">
-  <img src="./shape.png" alt="drawing" width="25">
+  <img src="./please.png" alt="drawing" width="180">
 </p>
