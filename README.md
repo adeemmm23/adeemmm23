@@ -1,5 +1,5 @@
 <h3 align="center">
-  <b>Bonjour <🥖></b>
+  <b>&lt;Bonjour 🥖&gt;</b>
 </h3>
 <p align="center">
   Je suis Adem Othman, an enthusiastic and ambitious tunisian student. and an Internet lover.
@@ -43,6 +43,9 @@
 </p>
 <p align="center">
   <img src="./divider.png" alt="drawing" width="100">
+</p>
+<p align="center">
+  <img src="./gitty.gif" alt="drawing" width="50">
 </p>
 <p align="center">
   ReactJS • ExpressJS • Tailwind • Flutter • Arduino • Python • Figma • PowerPoint
