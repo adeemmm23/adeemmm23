@@ -1,6 +1,6 @@
-<h3 align="center">
+<p align="center">
   <b>&lt;Bonjour 🥖&gt;</b>
-</h3>
+</p>
 <p align="center">
   Je suis Adem Othman, an enthusiastic and ambitious tunisian student. and an Internet lover.
 </p>
