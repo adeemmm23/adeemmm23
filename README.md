@@ -48,7 +48,7 @@
   <img src="./gitty.gif" alt="drawing" width="50">
 </p>
 <p align="center">
-  ReactJS • ExpressJS • Tailwind • Flutter • Arduino • Python • Figma • PowerPoint
+  AWS • NextJS • ExpressJS • Flutter • Arduino • Raspberry Pi • Figma • PowerPoint
 </p>
 <p align="center">
   <img src="./please.png" alt="drawing" width="180">
