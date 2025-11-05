@@ -2,7 +2,7 @@
   <b>&lt;Bonjour 🥖&gt;</b>
 </p>
 <p align="center">
-  Je suis Adem Othman, an enthusiastic and ambitious tunisian student. and an Internet lover.
+  Je suis Adem Othman, an enthusiastic and ambitious NetSec graduate and an Internet lover.
 </p>
 <p align="center">
   <img src="./divider.png" alt="drawing" width="100">
@@ -25,7 +25,7 @@
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.linkedin.com/in/ademot02/">
+<a href="https://www.linkedin.com/in/ademothman/">
   <img src="./linkedin.png" width="25">
 </a>
 &nbsp;
