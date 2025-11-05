@@ -20,18 +20,19 @@
   Feel free to check my links below.
 </p>
 <p align="center">
-<a href="https://twitter.com/ademot02/">
+<a href="https://twitter.com/ademot02/" style="text-decoration: none;">
   <img src="./x.png" width="25">
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.linkedin.com/in/ademothman/">
+<a href="https://www.linkedin.com/in/ademothman/" style="text-decoration: none;">
   <img src="./linkedin.png" width="25">
 </a>
 &nbsp;
 &nbsp;
 <a 
   href="mailto:contact.adem.ot@gmail.com"
+  style="text-decoration: none;"
   title="contact.adem.ot@gmail.com">
   <img src="./email.png" width="25">
 </a>
