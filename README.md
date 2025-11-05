@@ -23,9 +23,13 @@
 <a href="https://twitter.com/ademot02/">
   <img src="./x.png" width="25">
 </a>
+&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/ademothman/">
   <img src="./linkedin.png" width="25">
 </a>
+&nbsp;
+&nbsp;
 <a 
   href="mailto:contact.adem.ot@gmail.com"
   title="contact.adem.ot@gmail.com">
